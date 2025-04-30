@@ -1,5 +1,4 @@
 import pygame
-from button import Button
 from menu import Menu
 from game import Menu_Puissance4
 import time
